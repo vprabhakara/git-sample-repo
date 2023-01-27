@@ -8,7 +8,18 @@ Grateful for working as SDET engineer earning 150k/annum
 Grateful for having radiant skin and healthy hair
 Grateful for strong gut health bringing healthy weight gain of 55 kilos
 
+
+Validate the branches behavior
+
+Master is top branch
+
+PrivateBranch1 and Privatebranch2 are 2 branches of a developers
+
+
+Switched to privateBranch1 and committing the changes
+
+
+
 Adding the statements of PrivateBranch2 
 
 This the magical way of coding.
-
