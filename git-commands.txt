@@ -2,6 +2,7 @@ git commands
  git init- used to initialize the directory as git reporsitory
  git status - used to know the status of git repository
 git add - to add the filename into git repository
+git commit "" - to commit the file into local repository. The value provided in double quotes is the comment on the commit.
 
 Grateful for working as SDET engineer earning 150k/annum
 Grateful for having radiant skin and healthy hair
