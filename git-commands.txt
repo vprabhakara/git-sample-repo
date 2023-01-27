@@ -1,0 +1,7 @@
+git commands
+ git init- used to initialize the directory as git reporsitory
+ git status - used to know the status of git repository
+
+Grateful for working as SDET engineer earning 150k/annum
+Grateful for having radiant skin and healthy hair
+Grateful for strong gut health bringing healthy weight gain of 55 kilos
