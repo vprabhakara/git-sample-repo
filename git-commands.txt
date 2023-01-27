@@ -1,6 +1,7 @@
 git commands
  git init- used to initialize the directory as git reporsitory
  git status - used to know the status of git repository
+git add - to add the filename into git repository
 
 Grateful for working as SDET engineer earning 150k/annum
 Grateful for having radiant skin and healthy hair
