@@ -17,3 +17,9 @@ PrivateBranch1 and Privatebranch2 are 2 branches of a developers
 
 
 Switched to privateBranch1 and committing the changes
+
+
+
+Adding the statements of PrivateBranch2 
+
+This the magical way of coding.
